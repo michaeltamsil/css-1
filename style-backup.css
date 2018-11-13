@@ -1,0 +1,61 @@
+/* h1 {
+    color: red;
+}
+
+h3 {
+    color: green;
+} */
+
+/* button {
+    color: blue;
+} */
+
+/* .header,
+button {
+    color: green;
+} */
+
+.css1 .blue{
+    color: blue;
+}
+
+.red{
+    color:hsl;
+}
+
+.test-margin {
+    margin: 20px;
+    border:1px solid black;
+    /* padding: 10px 20px 30px 40px; */
+    padding-top: 40px; 
+}
+
+.block > div {
+    display: block;
+}
+.inline > div {
+    display: inline;
+}
+
+.inline-block {
+    position: relative;
+}
+
+.inline-block > .absolute{
+    position: absolute;
+    left: 20px;
+}
+
+.inline-block > div {
+    display: inline-block;
+}
+
+.static {
+    position: static;
+    border: 1px solid black;
+}
+
+.relative {
+    position: relative;
+    left: 20px;
+}
